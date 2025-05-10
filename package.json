@@ -1,7 +1,7 @@
 {
   "name": "Menu-paradise",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://helsing22.github.io/Paradise",
  
 "scripts": {
